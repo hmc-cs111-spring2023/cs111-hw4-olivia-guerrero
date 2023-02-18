@@ -1,0 +1,3 @@
+Scala seems pretty well suited for functional programming. It also seems particularly well suited to domain specific languages from what I've seen through the testing suite and other ways of customizing syntax. 
+
+I'm very much a fan of scala's syntax remaining very readable by relying on keywords and other things, though a lot of that is likely only becasuse of the same tools that make it excel at creating DSLs. This human readability makes it a lot more easy to write the code quickly.
